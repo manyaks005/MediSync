@@ -62,6 +62,7 @@ Built using Flutter, Firebase, Google ML Kit, and AI integration, MediSync aims 
 <img src="screenshots/loginPage.jpeg" width="250">
 <img src="screenshots/registerPage.jpeg" width="250">
 </p>
+
 ### Home Dashboard
 <img src="screenshots/homepage.jpeg" width="250">
 
@@ -70,11 +71,13 @@ Built using Flutter, Firebase, Google ML Kit, and AI integration, MediSync aims 
 <img src="screenshots/medScan1.jpeg" width="250">
 <img src="screenshots/medScan2.jpeg" width="250">
 </p>
+
 ### AI Medicine Details
 <p align="center">
 <img src="screenshots/medList.jpeg" width="250">
 <img src="screenshots/medDetail.jpeg" width="250">
 </p >
+
 ### Reminder Management
 <img src="screenshots/setReminder.jpeg" width="250">
 
