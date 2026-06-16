@@ -1,0 +1,23 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Firebase config (if you don't want to publish them)
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
