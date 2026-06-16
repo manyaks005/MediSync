@@ -80,34 +80,6 @@ Built using Flutter, Firebase, Google ML Kit, and AI integration, MediSync aims 
 
 ---
 
-## 🚀 Installation & Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/MediSync.git
-cd MediSync
-```
-
-2. Install dependencies:
-
-```bash
-flutter pub get
-```
-
-3. Configure Firebase:
-
-* Add your own Firebase configuration files.
-* Enable Firebase Authentication and Cloud Firestore.
-
-4. Run the application:
-
-```bash
-flutter run
-```
-
----
-
 ## 📂 Project Structure
 
 ```plaintext
